@@ -10,3 +10,4 @@ native = LF
 **.sh = LF
 **.png = BIN
 **.jpg = BIN
+**.svg = BIN
